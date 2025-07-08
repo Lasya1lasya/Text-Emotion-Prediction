@@ -26,3 +26,7 @@ Built using NLP preprocessing and supervised learning
 
 Predicts emotions such as: happy, sad, angry, fear, surprise, neutral
 
+## Run the Streamlit app:
+
+streamlit run app.py
+
